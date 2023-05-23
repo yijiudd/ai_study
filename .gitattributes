@@ -1,3 +1,2 @@
 *.ipynb -crlf
 *.csv -crlf
-.vscode/
