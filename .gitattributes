@@ -1,2 +1,2 @@
 *.ipynb -crlf
-*.csv -crlf
+*.csv filter=lfs diff=lfs merge=lfs -text
